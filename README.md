@@ -102,7 +102,7 @@ payload  definir cantidad por defaul 200  #aa: activar combinaciones cruzadas en
 
 ## Ejemplo payload manual Opcion 2.<br>
 <p>Para usar correctamente la Opción 2 se requiere un reconocimiento previo para poder elegir los valores correctos en cada una de las categorías desde x1 hasta x20.
-Requiere conocimientos intermedios sobre XSS. Se recomienda revisar mi repositorio de recursos, que contiene más de 80 recursos organizados y categorizados."</p><br>
+Requiere conocimientos intermedios sobre XSS. Se recomienda revisar mi repositorio de recursos, que contiene,<a href="https://github.com/Aquiles369/Recusos-xss/tree/main" target="_blank" rel="noopener">más de 80 recursos organizados y categorizados</a>.."</p><br>
 
 ```yaml
 2 payload_count: 20 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
