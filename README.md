@@ -395,7 +395,7 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1cjBxM21jZ3plcWxlODA4M3U2OHE3ZDgwZTFiN3M1bTBsNTBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEuxB8TDgkLSS3Fadp/giphy.gif" width = 75px>  </picture> Laboratorios, desafíos y retos XSS <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1cjBxM21jZ3plcWxlODA4M3U2OHE3ZDgwZTFiN3M1bTBsNTBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEuxB8TDgkLSS3Fadp/giphy.gif" width = 90px>  </picture> Laboratorios, desafíos y retos XSS <br><br>
 
 +[HTML5sec.org – XSS Labs](https://html5sec.org/#html5)<br><br>
 +[Escape Alf.nu](https://alf.nu/alert1?world=alert&level=alert0)<br><br>
@@ -426,42 +426,40 @@ x20_codificacion_hibrida_especiales: #4 #aa
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenAwZTVxOXhmcGF1ZTZsdG1tdGlxMnh5YTJwamozdnpuOWkxbmM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgAGgItIvkDQmUkGLm/giphy.gif" width = 75px>  </picture> Herramientas y utilidades para análisis y bypass <br><br>
 
-+[WAF Bypass – berrry.app](https://wafbypass.berrry.app/)<br>
-+[WAF-Bypass.com](https://waf-bypass.com/)<br>
-+[CSP Evaluator Google](https://csp-evaluator.withgoogle.com/)<br>
-+[CSP Validator](https://cspvalidator.org/?policy_lz=EITQYgHgggxg4jAwgFgBIAcBmUCmB3AUWQGsBzAEzwCkRUA5AZzDuKgDYoB5ALwkSgC8AoA)<br>
-+[Aurebesh.js](https://aem1k.com/aurebesh.js/#ser)<br>
++[WAF Bypass – berrry.app](https://wafbypass.berrry.app/)<br><br>
++[WAF-Bypass.com](https://waf-bypass.com/)<br><br>
++[CSP Evaluator Google](https://csp-evaluator.withgoogle.com/)<br><br>
++[CSP Validator](https://cspvalidator.org/?policy_lz=EITQYgHgggxg4jAwgFgBIAcBmUCmB3AUWQGsBzAEzwCkRUA5AZzDuKgDYoB5ALwkSgC8AoA)<br><br>
++[Aurebesh.js](https://aem1k.com/aurebesh.js/#ser)<br><br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR2cTRrMnpyeGEwZGE1MW9zYTB6MnN0MHk4amQzeGd0MTA4b25qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfSEtAibkFAGiVVYX0/giphy.gif" width = 75px>  </picture> Payloads, repositorios y listas de técnicas <br><br>
 
-+[PayloadsAllTheThings – XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection)<br>
-+[XSS Polyglot Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/2%20-%20XSS%20Polyglot.md)<br>
-+[Weaponised XSS Payloads – hakluke](https://github.com/hakluke/weaponised-XSS-payloads)<br>
-+[CSP Bypass Techniques – bhaveshk90](https://github.com/bhaveshk90/Content-Security-Policy-CSP-Bypass-Techniques)<br>
-+[ProjectDiscovery – CSP Bypass Templates](https://projectdiscovery.io/blog/csp-bypass-dast-nuclei-templates-v10-1-5)<br>
-+[Brutelogic Twitter](https://x.com/brutelogic?lang=es)<br>
-+[XSS0r Twitter](https://x.com/xss0r/status/1945754386875220190)<br>
-+[XSS.png – Jhaddix](https://github.com/jhaddix/XSS.png)<br>
-+[OpenBugBounty – WAF Bypassed XSS](https://www.openbugbounty.org/blog/xss-waf-bypassed/)<br>
-+[Hackerium XSS Wiki](https://wiki.hackerium.io/web-attack/web-attacks-library/cross-site-scripting-xss)<br>
++[PayloadsAllTheThings – XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection)<br><br>
++[XSS Polyglot Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/2%20-%20XSS%20Polyglot.md)<br><br>
++[Weaponised XSS Payloads – hakluke](https://github.com/hakluke/weaponised-XSS-payloads)<br><br>
++[CSP Bypass Techniques – bhaveshk90](https://github.com/bhaveshk90/Content-Security-Policy-CSP-Bypass-Techniques)<br><br>
++[ProjectDiscovery – CSP Bypass Templates](https://projectdiscovery.io/blog/csp-bypass-dast-nuclei-templates-v10-1-5)<br><br>
++[Brutelogic Twitter](https://x.com/brutelogic?lang=es)<br><br>
++[XSS0r Twitter](https://x.com/xss0r/status/1945754386875220190)<br><br>
++[XSS.png – Jhaddix](https://github.com/jhaddix/XSS.png)<br><br>
++[OpenBugBounty – WAF Bypassed XSS](https://www.openbugbounty.org/blog/xss-waf-bypassed/)<br><br>
++[Hackerium XSS Wiki](https://wiki.hackerium.io/web-attack/web-attacks-library/cross-site-scripting-xss)<br><br>
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture><br>
+
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jM25rMzlhcTYyZnY0bTMweG41ZjZwNTdjeXhzcGx5NHgyZmh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width = 75px>  </picture> Artículos, reportes y estudios de caso <br><br>
 
-+[Top 25 XSS Bug Bounty Reports – Cornea Cristian](https://freedium.cfd/https://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)<br>
-+[Bugcrowd Blog – XSS Tag](https://www.bugcrowd.com/blog/?t__post_tag=252)<br>
-+[Bugcrowd Blog – XSS Ultimate Guide](https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/)<br>
-+[Bugcrowd Blog – General](https://www.bugcrowd.com/blog/?f__s=xss&t__category=&a__author=)<br>
-
-
-+[Effective XSS Methodology – xdead4f](https://xdead4f.medium.com/effective-xss-methodology-the-true-way-to-hunt-xss-4f4d740035cc)<br>
-+[Medium – XSS Bug Bounty Search](https://medium.com/search?q=xss+bug+bounty+)<br>
-+[Medium – XSS Methodology Search](https://medium.com/search?q=xss+metology)<br>
++[Top 25 XSS Bug Bounty Reports – Cornea Cristian](https://freedium.cfd/https://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)<br><br>
++[Bugcrowd Blog – XSS Tag](https://www.bugcrowd.com/blog/?t__post_tag=252)<br><br>
++[Bugcrowd Blog – XSS Ultimate Guide](https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/)<br><br>
++[Bugcrowd Blog – General](https://www.bugcrowd.com/blog/?f__s=xss&t__category=&a__author=)<br><br>
++[Effective XSS Methodology – xdead4f](https://xdead4f.medium.com/effective-xss-methodology-the-true-way-to-hunt-xss-4f4d740035cc)<br><br>
++[Medium – XSS Bug Bounty Search](https://medium.com/search?q=xss+bug+bounty+)<br><br>
++[Medium – XSS Methodology Search](https://medium.com/search?q=xss+metology)<br><br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
