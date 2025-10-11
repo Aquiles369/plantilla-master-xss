@@ -469,14 +469,14 @@ x20_codificacion_hibrida_especiales: #4 #aa
 ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY3bmphNnN3enQzbTJpYm52aDQwN3ZqN2VyaThlb2IxZzlqOWNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pio0FLq6PFaPw4B4TF/giphy.gif" width = 75px>  </picture> Documentación y referencias extra útiles <br><br>
 
 
-+[HTML5 Event Attributes Reference](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br>
-+[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES)<br>
-+[Prompt.ml](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO)<br>
-+[Puzzle Challenges 1](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES)<br>
-+[Puzzle Challenges 2](Auditoría_Informática_Un_enfoque_práctico_de_calidad)<br>
-+[Puzzle Challenges 3](Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE)<br>
-+[Mini Puzzle 1](Auditoria_informática_un_enfoque_práctico_2)<br>
-+[Mini Puzzle 2](Criptografia_seguridad_en_computadoras)<br>
++[HTML5 Event Attributes Reference](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br><br>
++[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES)<br><br>
++[Prompt.ml](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO)<br><br>
++[Puzzle Challenges 1](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES)<br><br>
++[Puzzle Challenges 2](Auditoría_Informática_Un_enfoque_práctico_de_calidad)<br><br>
++[Puzzle Challenges 3](Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE)<br><br>
++[Mini Puzzle 1](Auditoria_informática_un_enfoque_práctico_2)<br><br>
++[Mini Puzzle 2](Criptografia_seguridad_en_computadoras)<br><br>
  
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
