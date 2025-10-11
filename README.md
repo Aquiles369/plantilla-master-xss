@@ -397,28 +397,28 @@ x20_codificacion_hibrida_especiales: #4 #aa
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1cjBxM21jZ3plcWxlODA4M3U2OHE3ZDgwZTFiN3M1bTBsNTBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEuxB8TDgkLSS3Fadp/giphy.gif" width = 75px>  </picture> Laboratorios, desafíos y retos XSS <br><br>
 
-+[HTML5sec.org – XSS Labs](https://html5sec.org/#html5)<br>
-+[Escape Alf.nu](https://alf.nu/alert1?world=alert&level=alert0)<br>
-+[Escape Alf.nu Write-up 1](https://www.pwntester.com/blog/2014/01/06/escape-alf-nu-xss-challenges-write-ups-part-148/)<br>
-+[Escape Alf.nu Write-up 2](https://www.pwntester.com/blog/2014/01/08/escape-alf-nu-xss-challenges-write-ups-part-257/)<br>
-+[ZDResearch XSS Challenge](https://zdresearch.com/zdresearch-xss1-challenge-writeup/)<br>
-+[Hackvertor XSS Challenges](http://challenge.hackvertor.co.uk/?challenge)<br>
-+[SecProject Web AppSec Challenge Series](https://soroush.me/blog)<br>
-+[Google XSS Game](https://xss-game.appspot.com/)<br>
-+[WAF Blacklist Bypass Challenge 1](https://hack.me/101575/evitar-el-desaf%C3%ADo-waf-basado-en-la-lista-negra.html)<br>
-+[WAF Blacklist Bypass Challenge 2](https://hack.me/101705/rhainfosec-xss-challenge-2.html)<br>
-+[Easter Write-up](https://cure53.de/easter-writeup/)<br>
-+[Cure53 Cookie Challenge](Evolucion_del_inert6ernet)<br>
-+[Mario’s XSSMe Challenge](https://html5sec.org/xssme.php)<br>
-+[XSSMe 2](http://xssme.html5sec.org/xssme2?xss=)<br>
-+[Mala’s jQuery XSS Challenge](http://ma.la/xssq/q.cgi)<br>
-+[XSSMas Challenge](https://research.insecurelabs.org/xssmas/)<br>
-+[Helmet.js XSS Challenge](https://research.insecurelabs.org/helmet.js/)<br>
-+[Cure53 Singapore Training Challenge](https://github.com/cure53/XSSChallengeWiki/wiki/Cure53-Singapore-Training-Challenge)<br>
-+[Businessinfo JSLR](http://www.businessinfo.co.uk/labs/jslr/jslr.php)<br>
-+[DOM XSS Challenge](http://www.domxss.com/domxss/domxss.php)<br>
-+[Older Challenges & Write-ups](https://github.com/cure53/XSSChallengeWiki/wiki/Older-Challenges-and-Write-Ups)<br>
-+[Cure53 XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki/)<br>
++[HTML5sec.org – XSS Labs](https://html5sec.org/#html5)<br><br>
++[Escape Alf.nu](https://alf.nu/alert1?world=alert&level=alert0)<br><br>
++[Escape Alf.nu Write-up 1](https://www.pwntester.com/blog/2014/01/06/escape-alf-nu-xss-challenges-write-ups-part-148/)<br><br>
++[Escape Alf.nu Write-up 2](https://www.pwntester.com/blog/2014/01/08/escape-alf-nu-xss-challenges-write-ups-part-257/)<br><br>
++[ZDResearch XSS Challenge](https://zdresearch.com/zdresearch-xss1-challenge-writeup/)<br><br>
++[Hackvertor XSS Challenges](http://challenge.hackvertor.co.uk/?challenge)<br><br>
++[SecProject Web AppSec Challenge Series](https://soroush.me/blog)<br><br>
++[Google XSS Game](https://xss-game.appspot.com/)<br><br>
++[WAF Blacklist Bypass Challenge 1](https://hack.me/101575/evitar-el-desaf%C3%ADo-waf-basado-en-la-lista-negra.html)<br><br>
++[WAF Blacklist Bypass Challenge 2](https://hack.me/101705/rhainfosec-xss-challenge-2.html)<br><br>
++[Easter Write-up](https://cure53.de/easter-writeup/)<br><br>
++[Cure53 Cookie Challenge](Evolucion_del_inert6ernet)<br><br>
++[Mario’s XSSMe Challenge](https://html5sec.org/xssme.php)<br><br>
++[XSSMe 2](http://xssme.html5sec.org/xssme2?xss=)<br><br>
++[Mala’s jQuery XSS Challenge](http://ma.la/xssq/q.cgi)<br><br>
++[XSSMas Challenge](https://research.insecurelabs.org/xssmas/)<br><br>
++[Helmet.js XSS Challenge](https://research.insecurelabs.org/helmet.js/)<br><br>
++[Cure53 Singapore Training Challenge](https://github.com/cure53/XSSChallengeWiki/wiki/Cure53-Singapore-Training-Challenge)<br><br>
++[Businessinfo JSLR](http://www.businessinfo.co.uk/labs/jslr/jslr.php)<br><br>
++[DOM XSS Challenge](http://www.domxss.com/domxss/domxss.php)<br><br>
++[Older Challenges & Write-ups](https://github.com/cure53/XSSChallengeWiki/wiki/Older-Challenges-and-Write-Ups)<br><br>
++[Cure53 XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki/)<br><br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
