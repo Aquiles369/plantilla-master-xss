@@ -354,7 +354,7 @@ Si payload_input = "2":<br>
 
 
 ```yaml
-2 payload_count: 4000 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
+2 payload_count: 20 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
 x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0
 x6_carecteres_dosponible: #,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4
 x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1
