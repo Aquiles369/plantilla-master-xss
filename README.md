@@ -379,12 +379,18 @@ x20_codificacion_hibrida_especiales: #4 #aa
 +[Invicti – XSS Filter Evasion](https://www.invicti.com/learn/xss-filter-evasion/)<br><br>
 +[WHATWG Encoding Standard](https://encoding.spec.whatwg.org/)<br><br>
 +[IANA Character Sets](https://www.iana.org/assignments/character-sets/character-sets.xhtml)<br><br>
+
 +[Unicode Scripts](https://www.unicode.org/charts/#scripts)<br><br>
+
 +[UnicodeData.txt](https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt)<br><br>
+
 +[DerivedNormalizationProps.txt](https://www.unicode.org/Public/UCD/latest/ucd/DerivedNormalizationProps.txt)<br><br>
+
 +[Unicode Normalization Forms (TR15)](https://unicode.org/reports/tr15/)<br><br>
+
 +[MDN – XSS Overview](https://developer.mozilla.org/en-US/docs/Web/Security/Attacks/XSS)<br><br>
-+[OWASP XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html#tests)<br><br>
+
++[OWASP XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html#tests)
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
