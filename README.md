@@ -369,7 +369,7 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1ZW9xOTVsYzIyenZtN3BwdXh3NmpvZ2xvdmRmMHRnMmdnMXZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Eo92aKij3WTbc3XFka/giphy.gif" width = 80px>  </picture> - :file_folder:Recursos & Fuentes <br><br>
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1ZW9xOTVsYzIyenZtN3BwdXh3NmpvZ2xvdmRmMHRnMmdnMXZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Eo92aKij3WTbc3XFka/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br><br>
 
  ## Guías técnicas y documentación oficial<br>
 
