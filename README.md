@@ -101,6 +101,7 @@ payload  definir cantidad por defaul 200  #aa: activar combinaciones cruzadas en
 <br>
 
 ## Ejemplo payload manual Opcion 2.<br>
+<p>Para usar correctameten la Opcion 2 require un recon previo para poder elegir los valores correctos en cada categorias de las 1x hasta la x20, "Requiere conocimiento medios sobre xss recomendado mirar mi repo de recursos con mas de 80+ recursos y categorizados"</p><br>
 
 ```yaml
 2 payload_count: 20 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
