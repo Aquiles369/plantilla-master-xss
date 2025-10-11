@@ -54,7 +54,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-Herramienta offline para generar, validar y catalogar payloads XSS por contexto, con combinaciones válidas y evasiones codificadas. CRUD, alta masiva, buscador global, contadores, export/import JSON y perfiles de WAF/CSP/sanitizadores.<br><br>
+“Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.”<br><br>
 
 Plantilla maestra de xss todo en uno usar con IA.
 
