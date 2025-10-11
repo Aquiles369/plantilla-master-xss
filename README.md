@@ -369,10 +369,13 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF6czFkZGZheWtsZGJrczB1dzZ6eXo4eDV4aHA1aHVrMW05dHh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UttRtwUfRuvnHre7aF/giphy.gif" width = 80px></picture> Recursos & Fuentes 
- <br><br>
+<center> <h3> Recursos & Fuentes  </h3> </center> 
+<br><br>
 
- ## Guías técnicas y documentación oficial<br>
+
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF6czFkZGZheWtsZGJrczB1dzZ6eXo4eDV4aHA1aHVrMW05dHh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UttRtwUfRuvnHre7aF/giphy.gif" width = 80px></picture> Guías técnicas y documentación oficial
+ <br><br>
+ 
 
 +[Advanced techniques for bypassing web filters – XSSRat](https://freedium.cfd/https://thexssrat.medium.com/advanced-techniques-for-bypassing-web-filters-a-practical-guide-to-identifying-and-exploiting-xss-f6cadeedf9ca)<br><br>
 +[PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#special-tags)<br><br>
