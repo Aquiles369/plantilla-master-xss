@@ -29,9 +29,9 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 
 ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVnYjRjbnZpNjJ3eXRlbHB2aWRsdDN3MmlxbGE0Y3h5bTYyZXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lr2NNkEUuGIKb3CFbu/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **• En pentests, la info XSS vive desperdigada: cheatsheets, blogs, PoCs viejos, listas de WAF, snippets de codificación, y notas sueltas. Resultado:<br><br>
-• Lento encontrar payloads que ejecuten en el contexto exacto (atributo con/sin comillas, href/src, innerHTML, SVG/MathML, JSON-in-HTML, etc.).<br>
+• Lento encontrar payloads que ejecuten en el contexto exacto (atributo con/sin comillas, href/src, innerHTML, SVG/MathML, JSON-in-HTML, etc.).<br><br>
 • Difícil versionar ofuscaciones/codificaciones y probar evasiones realistas (CSP/WAF/sanitizadores).<br><br>
-• Mucha duplicación y poca validación (comillas desbalanceadas, etiquetas inválidas, “ejecuta en mi máquina”).<br><br>
+• Mucha duplicación y poca validación (comillas desbalanceadas, etiquetas inválidas).<br><br>
 • Esta plantilla te da un hub operable offline: motores y categorías XSS curadas, combinaciones válidas etiqueta/atributo/evento, codificaciones híbridas, perfiles de WAF/CSP, validación destructiva y export/import JSON para colaborar.</a>.** 
 
 <br>
