@@ -20,7 +20,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 <br><br> 
 
 <p align="center">
- <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/metodos_http_y_header_demo_1.gif"/>
+ <img  height="420rem" alt="GIF" src="demo_youtube_git_plantilla_xss.gif"/>
 </p>
 
 <br>
