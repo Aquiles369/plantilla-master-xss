@@ -71,6 +71,12 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 - #526+ → generar al menos 526 combinaciones reales<br>
 - Se permiten alias x1–x20<br><br>
 
+## Ejemplo payload Opcion 1 automatico.<br>
+
+```yaml
+payload  definir cantidad por defaul 200  #aa: activar combinaciones cruzadas entre TODAS las categorías activas (modo fusión total)
+```
+<br>
 
 ## Ejemplo payload manual Opcion 2.<br>
 
