@@ -110,16 +110,6 @@ x19 Codificación híbrida de especiales (x20): mezcla de formatos por carácter
 
 x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con límites (capas y longitud).
 
-- Nuevas
-
-x21 Recursos & Fuentes: trazabilidad (cheatsheets, RFC, specs, papers, blogs, PoCs de autor), con campos origen, versión, fecha, licencia.
-
-x22 Validadores locales: parsers DOM nativo, runner de iframe/srcdoc, medidor de ejecución (evento disparado / función invocada), hash normalizado, verificador de comillas/etiquetas, y marcas de “ejecución real”.
-
-x23 Perfiles de prueba: “CSP duro”, “Cloudflare estricto”, “DOMPurify agresivo”, “Legacy IE”, “SVG-only”, “Atributo-sin-comillas”, etc.
-
-x24 Evidencias: screenshot textual (HTML serializado tras mutación), logs de eventos disparados (onerror/onload/...), registro de contexto y camino que llevó a la ejecución.
-
 <br>
 
 
