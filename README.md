@@ -369,7 +369,7 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-<center> <h3> Recursos & Fuentes  </h3> </center> 
+<h3 align="center"> Recursos & Fuentes  </h3> 
 <br><br>
 
 
