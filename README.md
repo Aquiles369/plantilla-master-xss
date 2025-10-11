@@ -56,9 +56,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 
 Herramienta offline para generar, validar y catalogar payloads XSS por contexto, con combinaciones válidas y evasiones codificadas. CRUD, alta masiva, buscador global, contadores, export/import JSON y perfiles de WAF/CSP/sanitizadores.<br><br>
 
-Formato: HTML/JS estático.<br>
-
-Datos: en memoria + JSON (y localStorage opcional).<br>
+Plantilla maestra de xss todo en uno usar con IA.
 
 
 
