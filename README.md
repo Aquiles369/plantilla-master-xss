@@ -375,13 +375,13 @@ x20_codificacion_hibrida_especiales: #4 #aa
 
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br>
 
- **Cheatsheets XSS, especificaciones HTML/WHATWG, MDN para eventos/atributos, RFC (HTTP/encodings), repos de payloads, papers de WAF bypass, issues de sanitizadores (DOMPurify/Jsoup/Bleach, etc.).**
+ **Cheatsheets XSS, especificaciones HTML/WHATWG, MDN para eventos/atributos, RFC (HTTP/encodings), repos de payloads, papers de WAF bypass, issues de sanitizadores (DOMPurify/Jsoup/Bleach, etc.).** <br><br><br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Gestor HTTP — tu catálogo vivo de métodos y headers. Edítalo, filtalo y compártelo. Offline, al instante.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> Plantilla Maestra XSS — tu fábrica viva de payloads y evasiones. Generá, validá y dominá el XSS. Offline, al instante.
 <br>
 
 
