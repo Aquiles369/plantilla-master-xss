@@ -73,7 +73,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 
 <br>
 
-```
+```yaml
 # =======================
 # ⚔️ PLANTILLA MAESTRA XSS
 # =======================
@@ -85,8 +85,7 @@ payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 
 # cantidad deseada de payloads gene rados
 payload_count: 200
-
-```yaml
+```
 
 ## Ejemplo payload Opcion 1 automatico.<br>
 
