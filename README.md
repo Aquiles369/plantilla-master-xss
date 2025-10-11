@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Plantilla máster xss offensive framework"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Templo XSS — Plantilla Maestra Ofensiva"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
 
 
 <br>
@@ -369,130 +369,116 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1ZW9xOTVsYzIyenZtN3BwdXh3NmpvZ2xvdmRmMHRnMmdnMXZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Eo92aKij3WTbc3XFka/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br><br>
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF6czFkZGZheWtsZGJrczB1dzZ6eXo4eDV4aHA1aHVrMW05dHh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UttRtwUfRuvnHre7aF/giphy.gif" width = 80px></picture> Recursos & Fuentes 
+ <br><br>
 
  ## Guías técnicas y documentación oficial<br>
 
 +[Advanced techniques for bypassing web filters – XSSRat](https://freedium.cfd/https://thexssrat.medium.com/advanced-techniques-for-bypassing-web-filters-a-practical-guide-to-identifying-and-exploiting-xss-f6cadeedf9ca)<br>
-+[concepto_de_ciberseguridad_basicos](concepto_de_ciberseguridad_basicos)<br>
-+[Ser_Digital](Ser_Digital)<br>
-+[Seguridad_por_niveles](seguridad_por_niveles)<br>
-+[Seguridad_fisica](Seguridad_fisica)<br>
-+[Seguridad_informática_2](Seguridad_informática_2)<br>
-+[Seguridad_informática_pag_14__118](Seguridad_informática_pag_14__118)<br>
-+[Ciberseguridad_Ciberguerra_Ciberderechos](Ciberseguridad_Ciberguerra_Ciberderechos)<br>
-+[Ciberespacio_y_comunicacion](Ciberespacio_y_comunicacion)<br>
-+[Ciberdelicuente_y_Tegnologia](Ciberdelicuente_y_Tegnologia)<br>
-+[Hacia_una_reflexión_histórica_de_las_TIC](Hacia_una_reflexión_histórica_de_las_TIC)<br>
-+[documento_ seguridad redes_sociales_baja](documento_seguridad_redes_sociales_baja)<br>
-+[Evolucion de como fue el inicio de las _Web ](Evolucion_Web)<br>
-+[Tecnologías_de_la_Wep basico](Tecnologías_de_la_Wep)<br>
++[PortSwigger XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#special-tags)<br>
++[Invicti – XSS Filter Evasion](https://www.invicti.com/learn/xss-filter-evasion/)<br>
++[WHATWG Encoding Standard](https://encoding.spec.whatwg.org/)<br>
++[IANA Character Sets](https://www.iana.org/assignments/character-sets/character-sets.xhtml)<br>
++[Unicode Scripts](https://www.unicode.org/charts/#scripts)<br>
++[UnicodeData.txt](https://www.unicode.org/Public/UCD/latest/ucd/UnicodeData.txt)<br>
++[DerivedNormalizationProps.txt](https://www.unicode.org/Public/UCD/latest/ucd/DerivedNormalizationProps.txt)<br>
++[Unicode Normalization Forms (TR15)](https://unicode.org/reports/tr15/)<br>
++[MDN – XSS Overview](https://developer.mozilla.org/en-US/docs/Web/Security/Attacks/XSS)<br>
++[OWASP XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html#tests)<br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRwMWxoNXppc2dpYXc5aW85NHJ1bjhwOGsydHRiY2FsczhoOW5vNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XbZ1FZ4xtzDKE/giphy.gif" width = 75px>  </picture> Redes y protocolos <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc1cjBxM21jZ3plcWxlODA4M3U2OHE3ZDgwZTFiN3M1bTBsNTBmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEuxB8TDgkLSS3Fadp/giphy.gif" width = 75px>  </picture> Laboratorios, desafíos y retos XSS <br><br>
 
-+[Redes_de_computadoras](Redes_de_computadoras)<br>
-+[Redes_diseño_actualización_y_reparación_Pag_28__123](Redes_diseño_actualización_y_reparación_Pag_28__123)<br>
-+[Conceptos_de_redes_de_computadoras_Pag_1 al 30](Conceptos_de_redes_de_computadoras_Pag_1_30)<br>
-+[Conceptos_de_redes_de_computadoras_Pag_1_30](Conceptos_de_redes_de_computadoras_Pag_1_30)<br>
-+[Redes_de_datos y Protocolos](Redes_de_datos)<br>
-+[El modelo OSI y sus protocolos](Protocolos_del_modelo_OSI)<br>
-+[Conectividad_de_Redes poca paginas](Conectividad_de_redes)<br>
-+[La_Seguridad_en_Redes_de_Comunicacion](La_Seguridad_en_Redes_de_Comunicacion)<br>
-+[Redes_completo parte 1](Redes_completo)<br>
-+[Redes_completo_2](Redes_completo_2)<br>
-+[Redes_completo_3](Redes_completo_3)<br>
-+[Evolucion_del_inerternet](Evolucion_del_inert6ernet)<br>
-+[Tecnologia_de_la_comunicacion](Tecnologia_de_la_comunicacion)<br>
++[HTML5sec.org – XSS Labs](https://html5sec.org/#html5)<br>
++[Escape Alf.nu](https://alf.nu/alert1?world=alert&level=alert0)<br>
++[Escape Alf.nu Write-up 1](https://www.pwntester.com/blog/2014/01/06/escape-alf-nu-xss-challenges-write-ups-part-148/)<br>
++[Escape Alf.nu Write-up 2](https://www.pwntester.com/blog/2014/01/08/escape-alf-nu-xss-challenges-write-ups-part-257/)<br>
++[ZDResearch XSS Challenge](https://zdresearch.com/zdresearch-xss1-challenge-writeup/)<br>
++[Hackvertor XSS Challenges](http://challenge.hackvertor.co.uk/?challenge)<br>
++[SecProject Web AppSec Challenge Series](https://soroush.me/blog)<br>
++[Google XSS Game](https://xss-game.appspot.com/)<br>
++[WAF Blacklist Bypass Challenge 1](https://hack.me/101575/evitar-el-desaf%C3%ADo-waf-basado-en-la-lista-negra.html)<br>
++[WAF Blacklist Bypass Challenge 2](https://hack.me/101705/rhainfosec-xss-challenge-2.html)<br>
++[Easter Write-up](https://cure53.de/easter-writeup/)<br>
++[Cure53 Cookie Challenge](Evolucion_del_inert6ernet)<br>
++[Mario’s XSSMe Challenge](https://html5sec.org/xssme.php)<br>
++[XSSMe 2](http://xssme.html5sec.org/xssme2?xss=)<br>
++[Mala’s jQuery XSS Challenge](http://ma.la/xssq/q.cgi)<br>
++[XSSMas Challenge](https://research.insecurelabs.org/xssmas/)<br>
++[Helmet.js XSS Challenge](https://research.insecurelabs.org/helmet.js/)<br>
++[Cure53 Singapore Training Challenge](https://github.com/cure53/XSSChallengeWiki/wiki/Cure53-Singapore-Training-Challenge)<br>
++[Businessinfo JSLR](http://www.businessinfo.co.uk/labs/jslr/jslr.php)<br>
++[DOM XSS Challenge](http://www.domxss.com/domxss/domxss.php)<br>
++[Older Challenges & Write-ups](https://github.com/cure53/XSSChallengeWiki/wiki/Older-Challenges-and-Write-Ups)<br>
++[Cure53 XSS Challenge Wiki](https://github.com/cure53/XSSChallengeWiki/wiki/)<br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQ5cDBrdWJ5NGM3MXNwNDhjeDNxYTNkcjNremw5M240MXk5eDZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DGaZTLF390Z0s/giphy.gif" width = 75px>  </picture> Metodologías y estándares <br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenAwZTVxOXhmcGF1ZTZsdG1tdGlxMnh5YTJwamozdnpuOWkxbmM3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgAGgItIvkDQmUkGLm/giphy.gif" width = 75px>  </picture> Herramientas y utilidades para análisis y bypass <br><br>
 
-+[Saludos al Resumen_personal_de_OSSTMM_V3_ES](OSSTMM_V3_es)<br>
-+[OSSTMM_es_2_1](OSSTMM_es_2_1)<br>
-+[COBIT_2019_Introducion_y__Methodologia](COBIT_2019_Introducion_y__Methodologia)<br>
-+[Uniendo al gobierno](Uniendo_al_Gobierno)<br>
-+[Metodologia_ruta_super_interesante_Mittre_attackme](Metodologia_ruta_super_interesante_Mittre_attackme)<br>
-
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
-
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp1bmFpMnJzcHJuMzJkZ2Y1OHl5d3cxeDU1emRzOGJuMTR5d3kxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QfvoEfKgqjyTu/giphy.gif" width = 75px>  </picture> OWASP y auditorías <br><br>
-
-+[OWASP_v4_TODO_traducido_al_ESPAÑOL](OWASP_v4_TODO_traducido_al_ESPAÑOL)<br>
-+[Guía_de_pruebas_de_OWASP_ver_3_0](Guía_de_pruebas_de_OWASP_ver_3_0)<br>
-+[OWASP_Testing_Guide_v4](OWASP_Testing_Guide_v4)<br>
-+[2020_Introduction_to_the_OWASP_Top_Ten](2020_Introduction_to_the_OWASP_Top_Ten)<br>
-+[OWASP_API_2021_TOP_10](OWASP_API_2021_TOP_10)<br>
-+[OWASP_API_2023_TOP_10](OWASP_API_2023_TOP_10)<br>
-+[IMAGEN_OWASP_TOP10_2003_A_2021](IMAGEN_OWAS_TOP10_2003_A_2021)<br>
-+[Owasp_top_10_varios_años](Owasp_top_10_varios_años)<br>
-+[TODOS_LOS_pdf_de_OWASP_CHULITA_RICA](TODOS_LOS_pdf_de_OWASP_CHULITA_RICA)<br>
-+[Escaneo_Metodologia](Escaneo_Metodologia)<br>
-+[Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas](Ponencia_tipos_de_ataques_y_de_intrusos_en_las_redes_informaticas)<br>
++[WAF Bypass – berrry.app](https://wafbypass.berrry.app/)<br>
++[WAF-Bypass.com](https://waf-bypass.com/)<br>
++[CSP Evaluator Google](https://csp-evaluator.withgoogle.com/)<br>
++[CSP Validator](https://cspvalidator.org/?policy_lz=EITQYgHgggxg4jAwgFgBIAcBmUCmB3AUWQGsBzAEzwCkRUA5AZzDuKgDYoB5ALwkSgC8AoA)<br>
++[Aurebesh.js](https://aem1k.com/aurebesh.js/#ser)<br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc2NDZwdDVjb2ZjdmZxazJ0YWs5dGJqNTZ2NDQxeDVxMDhqZnhnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/A5M0iKWg8bxwk/giphy.gif" width = 75px>  </picture> Herramientas y OSINT <br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR2cTRrMnpyeGEwZGE1MW9zYTB6MnN0MHk4amQzeGd0MTA4b25qZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RfSEtAibkFAGiVVYX0/giphy.gif" width = 75px>  </picture> Payloads, repositorios y listas de técnicas <br><br>
 
-+[OSINT_Framework chuleta rica mirar recomendado](OSINT_Framework)<br>
-+[hacktricks muy completo varios ataques web etc mirar obligatoriamente](hacktricks/hacktricks.txt)<br>
-+[waf_bypass/wafbypass.txt](waf_bypass/waf_bypass.txt)<br>
-+[ip_rotativa/ip_rotativa.txt](ip_rotativa/ip_rotativa.txt)<br>
++[PayloadsAllTheThings – XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection)<br>
++[XSS Polyglot Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/XSS%20Injection/2%20-%20XSS%20Polyglot.md)<br>
++[Weaponised XSS Payloads – hakluke](https://github.com/hakluke/weaponised-XSS-payloads)<br>
++[CSP Bypass Techniques – bhaveshk90](https://github.com/bhaveshk90/Content-Security-Policy-CSP-Bypass-Techniques)<br>
++[ProjectDiscovery – CSP Bypass Templates](https://projectdiscovery.io/blog/csp-bypass-dast-nuclei-templates-v10-1-5)<br>
++[Brutelogic Twitter](https://x.com/brutelogic?lang=es)<br>
++[XSS0r Twitter](https://x.com/xss0r/status/1945754386875220190)<br>
++[XSS.png – Jhaddix](https://github.com/jhaddix/XSS.png)<br>
++[OpenBugBounty – WAF Bypassed XSS](https://www.openbugbounty.org/blog/xss-waf-bypassed/)<br>
++[Hackerium XSS Wiki](https://wiki.hackerium.io/web-attack/web-attacks-library/cross-site-scripting-xss)<br>
+
+<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
+<br>
+
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9jM25rMzlhcTYyZnY0bTMweG41ZjZwNTdjeXhzcGx5NHgyZmh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTLY0aBWN5SaMeBzLd/giphy.gif" width = 75px>  </picture> Artículos, reportes y estudios de caso <br><br>
+
++[Top 25 XSS Bug Bounty Reports – Cornea Cristian](https://freedium.cfd/https://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)<br>
++[Bugcrowd Blog – XSS Tag](https://www.bugcrowd.com/blog/?t__post_tag=252)<br>
++[Bugcrowd Blog – XSS Ultimate Guide](https://www.bugcrowd.com/blog/the-ultimate-guide-to-finding-and-escalating-xss-bugs/)<br>
++[Bugcrowd Blog – General](https://www.bugcrowd.com/blog/?f__s=xss&t__category=&a__author=)<br>
+
+
++[Effective XSS Methodology – xdead4f](https://xdead4f.medium.com/effective-xss-methodology-the-true-way-to-hunt-xss-4f4d740035cc)<br>
++[Medium – XSS Bug Bounty Search](https://medium.com/search?q=xss+bug+bounty+)<br>
++[Medium – XSS Methodology Search](https://medium.com/search?q=xss+metology)<br>
+
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHF0OGJ4czNrYmRjamZhNTBpYTFlaDltNGc3aXMyMHF1aDJrZW03eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6RsYcS66Iso0/giphy.gif" width = 75px>  </picture> Auditorías, criptografía y rol profesional <br><br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY3bmphNnN3enQzbTJpYm52aDQwN3ZqN2VyaThlb2IxZzlqOWNoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Pio0FLq6PFaPw4B4TF/giphy.gif" width = 75px>  </picture> Documentación y referencias extra útiles <br><br>
 
 
-+[Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br>
++[HTML5 Event Attributes Reference](Auditoría_Informática_Un_enfoque_práctico_LA_AUDITORIA_FISICA)<br>
 +[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_REDES)<br>
-+[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO)<br>
-+[Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES)<br>
-+[Auditoría_Informática_Un_enfoque_práctico_de_calidad](Auditoría_Informática_Un_enfoque_práctico_de_calidad)<br>
-+[Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE](Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE)<br>
-+[Auditoria_informática_un_enfoque_práctico_2](Auditoria_informática_un_enfoque_práctico_2)<br>
-+[Criptografia_seguridad_en_computadoras](Criptografia_seguridad_en_computadoras)<br>
-+[Rol_Del_auditor_principios_eticos](Rol_Del_auditor_principios_eticos)<br>
-
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
-
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJvMWRtNjU3OGZ6OHBpeXZzczBkMnIwcWtza2liZXkzZHhsYWVubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NDqBIAjtA1Z72/giphy.gif" width = 75px>  </picture> Malware e incidentes <br><br>
- 
-+[Tacticas_de_Malware](Tacticas_de_Malware)<br>
-+[Haking_Cero](Haking_Cero)<br>
-+[Gestión_de_incidentes_de_seguridad_informática_Parte:1](Gestión_de_incidentes_de_seguridad_informática_1)<br>
-+[Gestión_de_incidentes_de_seguridad_informática_Parte_2](Gestión_de_incidentes_de_seguridad_informática_2)<br>
-
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
-<br>
-
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl2eW9mbGIycG5za21ubWt5MzQzNmxqNTd5YTYwdnB6c3o5azdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WPVxEmxYZmlMI/giphy.gif" width = 75px>  </picture> Laboratorios y práctica <br><br>
-
-+[paginas_praticar_web](paginas_praticar_web)<br>
-+[paginas_praticar_web hacking y imagenes ISO varias](paginas_praticar_web)<br>
-
-
-
-
++[Prompt.ml](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_MANTENIMIENTO)<br>
++[Puzzle Challenges 1](Auditoría_Informática_Un_enfoque_práctico_AUDITORIA_DE_APLICACIONES)<br>
++[Puzzle Challenges 2](Auditoría_Informática_Un_enfoque_práctico_de_calidad)<br>
++[Puzzle Challenges 3](Auditoría_Informática_Un_enfoque_práctico_CICLO_DE_VIDA_DEL_DESARROLLO_DEL_SOFTWARE)<br>
++[Mini Puzzle 1](Auditoria_informática_un_enfoque_práctico_2)<br>
++[Mini Puzzle 2](Criptografia_seguridad_en_computadoras)<br>
  
 
- **Cheatsheets XSS, especificaciones HTML/WHATWG, MDN para eventos/atributos, RFC (HTTP/encodings), repos de payloads, papers de WAF bypass, issues de sanitizadores (DOMPurify/Jsoup/Bleach, etc.).** <br><br><br>
-
-
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> Plantilla Maestra XSS — tu fábrica viva de payloads y evasiones. Generá, validá y dominá el XSS al instante.
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Templo XSS — el lugar donde cada payload es un arma y cada evasión, un arte.”
 <br>
 
 
