@@ -1,4 +1,4 @@
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Plantilla master xss"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Plantilla máster xss"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
 
 
 <br>
@@ -178,7 +178,7 @@ Secciones y categorías (x1–x20 mejorado):
 
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjNW4yams3eG91NDRkYnY5OG5hMWdrYWhpMmRlam5idndqdG9uMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VjYVCK14nzkfZnKftv/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla
 
-Al principio de la plantilla master de xss <br>
+## Al principio de la plantilla máster de xss <br>
 
 ```yaml
 # 🔐 LLAVE MAESTRA — Handshake obligatorio
@@ -211,7 +211,7 @@ payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 payload_count: 2000
 ```
 
-Luego poner esto al final de igual modo la plantilla ya viene por defual con todo esto listo ya <br>
+## Luego poner esto al final de igual modo la plantilla ya viene por default con todo esto listo ya <br>
 
 ```yaml
 🛡️ BLOQUE CRÍTICO — Activar validación destructiva real
