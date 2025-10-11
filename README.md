@@ -71,6 +71,23 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 - #526+ → generar al menos 526 combinaciones reales<br>
 - Se permiten alias x1–x20<br><br>
 
+<br>
+
+```
+# =======================
+# ⚔️ PLANTILLA MAESTRA XSS
+# =======================
+
+# payload_input:
+# - Si ponés un payload real aquí → modo automático IA
+# - Si ponés el número 2 → modo manual (vos indicarás los valores de cada categoría manualmente)
+payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
+
+# cantidad deseada de payloads gene rados
+payload_count: 200
+
+```yaml
+
 ## Ejemplo payload Opcion 1 automatico.<br>
 
 ```yaml
