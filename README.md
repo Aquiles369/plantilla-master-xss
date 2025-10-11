@@ -182,7 +182,7 @@ x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con l
 
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla<br>
 
- # 🛡️ BLOQUE CRÍTICO — Activar validación destructiva real
+🛡️ BLOQUE CRÍTICO — Activar validación destructiva real
 modo_validación: "estricto"<br>
 
 validacion_activa:<br>
@@ -201,15 +201,15 @@ validacion_activa:<br>
 ⚠️ Esta plantilla obliga al generador a seguir exactamente los comandos, categorías, flags y reglas dadas.
 No puede ignorar, reinterpretar ni sustituir valores.<br><br>
 
-# ⚙️ Campo de validación
+⚙️ Campo de validación
 modo_validación: "estricto"   # valores: estricto | flexible | off<br><br>
 
-# 🧩 1 — Limitaciones para controlar el caos<br>
+🧩 1 — Limitaciones para controlar el caos<br>
 max_payload_base_length: 80<br>
 max_layers_per_payload: 6<br>
 min_unique_combinations: 526<br><br>
 
-# 🧩 2 — Validación de contenido estructural<br>
+🧩 2 — Validación de contenido estructural<br>
 validaciones_personalizadas:<br>
   - rechazar_payloads_sin_etiquetas_validas: true<br>
   - rechazar_payloads_sin_cierre_de_etiquetas: true<br>
@@ -218,24 +218,24 @@ validaciones_personalizadas:<br>
   - rechazar_payloads_identicos_con_distinto_ofuscado: true<br>
   - solo_aceptar_si_ejecuta_js_real: true<br><br>
 
-# 🧩 3 — Codificación real por carácter<br>
+🧩 3 — Codificación real por carácter<br>
 codificacion:<br>
   aplicar_por_caracter: true<br>
   mezclar_formatos: true<br>
   aplicar_fullwidth_solo_letras: true<br>
-  omitir_si_codificado_por_x20: true         # ⚡ evita que #** actúe sobre caracteres ya tocados por x20<br><br>
+  omitir_si_codificado_por_x20: true          ⚡ evita que #** actúe sobre caracteres ya tocados por x20<br><br>
 
-# 🧩 4 — Anti-colisión y diversidad<br>
+🧩 4 — Anti-colisión y diversidad<br>
 anti_colision:<br>
   comparar_hash_normalizado: true<br>
   comparar_sin_ofuscacion: true<br>
   entropia_minima: alta<br>
   descartar_si_parecido: true<br><br>
 
-# 🧩 5 — Cobertura total obligatoria<br>
+🧩 5 — Cobertura total obligatoria<br>
 cobertura_total: obligatoria<br><br>
 
-# 🧩 6 — Codificación híbrida de especiales (x20)<br>
+🧩 6 — Codificación híbrida de especiales (x20)<br>
 x20_codificacion_hibrida_especiales:<br>
   #1: codificar SOLO los caracteres especiales < > / = ' "<br>
   #2: codificar SOLO la mitad de los especiales (aleatorio)<br>
@@ -316,7 +316,9 @@ Si payload_input = "2":<br>
 ✔ Compatibles con el framework y el WAF indicados  <br>
 ✔ Alta entropía y creatividad (modo varios Aquiles trabajando a la vez)<br><br>
 
-Ejemplo: payload_input: 2 payload_count: 4000 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0 x6_carecteres_dosponible: #,,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4 x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1 x13_frameworks: #0 x14_waf: #2,#4 x15_parsers_sanitizadores: #0 x16_poliformicos_xss: #1,#3 x17_backend_franmoword_orm: #0 x18_servidor_cual_es_ejemplo_apache: #0 x19_motor_navegador: #1 x20_codificacion_hibrida_especiales: #4 #aa
+Ejemplo, payload_input:<br><br>
+
+##2 payload_count: 4000 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0 x6_carecteres_dosponible: #,,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4 x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1 x13_frameworks: #0 x14_waf: #2,#4 x15_parsers_sanitizadores: #0 x16_poliformicos_xss: #1,#3 x17_backend_franmoword_orm: #0 x18_servidor_cual_es_ejemplo_apache: #0 x19_motor_navegador: #1 x20_codificacion_hibrida_especiales: #4 #aa ##
 
 <br>
 
