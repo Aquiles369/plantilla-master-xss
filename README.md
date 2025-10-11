@@ -66,51 +66,49 @@ Plantilla maestra de xss todo en uno usar con IA.
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFjNDA2eTFuemRodW1nMGtweXZsZ3Q4dHI5cjB5aHgzaDF0d2dscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rjx6NwlyWdHkEL1ieh/giphy.gif" width = 80px>  </picture> Características
 <br><br>
 
-- Categorías dinámicas
+- Categorías dinámicas<br><br>
 
 Secciones y categorías (x1–x20 mejorado):
 
-x1 Motores/Navegadores: Blink/WebKit/Gecko/CEF/Headless/SmartTV/Consolas.
+x1 Motores/Navegadores: Blink/WebKit/Gecko/CEF/Headless/SmartTV/Consolas.<br>
 
-x2 Métodos HTTP: GET/POST… (para rutas de prueba y PoCs server-side).
+x2 Métodos HTTP: GET/POST… (para rutas de prueba y PoCs server-side).<br>
 
-x3 Carácteres disponibles: HTML/JS/URL, invisibles, ruptura contextual, separadores multi-contexto.
+x3 Carácteres disponibles: HTML/JS/URL, invisibles, ruptura contextual, separadores multi-contexto.<br>
 
-x4 Contextos: atributo (con/sin comillas), href/src/action/formaction, HTML plano/head/body/template, <script>/module, srcdoc, DOM sinks (innerHTML, insertAdjacentHTML, document.write, Range, Shadow DOM), JSON in HTML/JS/storage, headers reflejados (Referer/UA), plantillas (Handlebars/Mustache/EJS/Pug/Liquid/Nunjucks…).
+x4 Contextos: atributo (con/sin comillas), href/src/action/formaction, HTML plano/head/body/template, <script>/module, srcdoc, DOM sinks (innerHTML, insertAdjacentHTML, document.write, Range, Shadow DOM), JSON in HTML/JS/storage, headers reflejados (Referer/UA), plantillas (Handlebars/Mustache/EJS/Pug/Liquid/Nunjucks…).<br>
 
-x5 Etiquetas HTML/SVG/MathML (curado, incluidos obsoletos útiles).
+x5 Etiquetas HTML/SVG/MathML (curado, incluidos obsoletos útiles).<br>
 
-x6 Eventos: UI, ratón/teclado/foco/form, carga/errores, multimedia, sensores, WebXR, pagos.
+x6 Eventos: UI, ratón/teclado/foco/form, carga/errores, multimedia, sensores, WebXR, pagos.<br>
 
-x7 Atributos: globales, enlaces, media, forms, iframe, script, link, meta, ARIA, SVG.
+x7 Atributos: globales, enlaces, media, forms, iframe, script, link, meta, ARIA, SVG.<br>
 
-x8 Combinaciones válidas (whitelist etiqueta/atributo/evento): base para payloads que sí parsean.
+x8 Combinaciones válidas (whitelist etiqueta/atributo/evento): base para payloads que sí parsean.<br>
 
-x9 Técnicas XSS: DOM-based, Reflected, Stored, Mutation/XSS Parser, MHTML; soporte para fragmentación y reensamblado.
+x9 Técnicas XSS: DOM-based, Reflected, Stored, Mutation/XSS Parser, MHTML; soporte para fragmentación y reensamblado.<br>
 
-x10 Polimórficos: self-destroy (this.remove()), varnames random, concatenaciones, delays (setTimeout), wrappers Function/eval (solo lab).
+x10 Polimórficos: self-destroy (this.remove()), varnames random, concatenaciones, delays (setTimeout), wrappers Function/eval (solo lab).<br>
 
-x11 Frameworks: React/Angular/Vue/Next/Svelte/Ember/Blade/Twig/Jinja/Liquid/Nunjucks/etc. (payloads adaptados).
+x11 Frameworks: React/Angular/Vue/Next/Svelte/Ember/Blade/Twig/Jinja/Liquid/Nunjucks/etc. (payloads adaptados).<br>
 
-x12 Sanitizadores/Parsers: DOMPurify, OWASP Java, Jsoup, Bleach, HTMLPurifier, etc. (estrategias de evasión documentadas).
+x12 Sanitizadores/Parsers: DOMPurify, OWASP Java, Jsoup, Bleach, HTMLPurifier, etc. (estrategias de evasión documentadas).<br>
 
-x13 WAF: Cloudflare, Imperva, F5 ASM, ModSecurity CRS, AWS/Azure/GCP WAF, Fastly/Signal Sciences… (perfiles combinables).
+x13 WAF: Cloudflare, Imperva, F5 ASM, ModSecurity CRS, AWS/Azure/GCP WAF, Fastly/Signal Sciences… (perfiles combinables).<br>
 
-x14 Backends/ORM (lectura de contexto): Django/Flask/Laravel/Spring/ASP.NET/Express/Nest/Go/Rust/etc.
+x14 Backends/ORM (lectura de contexto): Django/Flask/Laravel/Spring/ASP.NET/Express/Nest/Go/Rust/etc.<br>
 
-x15 Servidor: Apache/Nginx/IIS/LiteSpeed/Node core/Bun/Deno/etc.
+x15 Servidor: Apache/Nginx/IIS/LiteSpeed/Node core/Bun/Deno/etc.<br>
 
-x16 CSP bypass: inline-event, base tag, nonce reuse, data:/blob: donde aplique (toggle on/off).
+x16 CSP bypass: inline-event, base tag, nonce reuse, data:/blob: donde aplique (toggle on/off).<br>
 
-x17 Ofuscaciones: bloques válidos (ASCII/latín ext./griego/cirílico) con límites para no romper.
+x17 Ofuscaciones: bloques válidos (ASCII/latín ext./griego/cirílico) con límites para no romper.<br>
 
-x18 Codificaciones: entidades/URL/hex/unicode/octal/Base64/mixtas/NCR/UTF7/overlong/JS escapes/CSS escapes/JSON escapes, etc.
+x18 Codificaciones: entidades/URL/hex/unicode/octal/Base64/mixtas/NCR/UTF7/overlong/JS escapes/CSS escapes/JSON escapes, etc.<br>
 
-x19 Codificación híbrida de especiales (x20): mezcla de formatos por carácter (< > / = ' " ()) con políticas #1–#4 y modo #a.
+x19 Codificación híbrida de especiales (x20): mezcla de formatos por carácter (< > / = ' " ()) con políticas #1–#4 y modo #a.<br>
 
-x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con límites (capas y longitud).
-
-<br>
+x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con límites (capas y longitud).<br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
@@ -120,62 +118,60 @@ x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con l
 <br><br>
 
 
-1. Abrí el archivo en tu IA preferida recomenadad (Chat GPT PLUS).
+1. Abrí el archivo en tu IA preferida recomenadad (Chat GPT PLUS).<br>
 
-2. Guardar en su memoria interna la plantilla master de xss.
+2. Guardar en su memoria interna la plantilla master de xss.<br>
 
-3. Escribir plantilla master de xss.
+3. Escribir plantilla master de xss.<br>
 
-4. Escribir aquilestop la contraseña.
+4. Escribir aquilestop la contraseña.<br>
 
-5. Opciones de ejucion opcion 1- ingresar un payload manual o opcion 2- ingresar un paylodad x y dejar que al IA haga todo el resto con su creatividad.
+5. Opciones de ejucion opcion 1- ingresar un payload manual o opcion 2- ingresar un paylodad x y dejar que al IA haga todo el resto con su creatividad.<br>
 
-6. Si elegiste la opcion 1  (vos indicarás los valores de cada categoría manualmente) .
+6. Si elegiste la opcion 1  (vos indicarás los valores de cada categoría manualmente) .<br>
 
-7. Cantidad de paylodad a generar etc recomendado comenzar con menos de 20 dependiento la complejidad de los comandos y categorias utilizadas probar 2000 con paylodad genericos ingresar los comandos separa por espacio.
+7. Cantidad de paylodad a generar etc recomendado comenzar con menos de 20 dependiento la complejidad de los comandos y categorias utilizadas probar 2000 con paylodad genericos ingresar los comandos separa por espacio.<br>
 
-8. Seleccionar el motor del navegador
+8. Seleccionar el motor del navegador<br>
 
-9. Seleccionar Metodo http
+9. Seleccionar Metodo http<br>
 
-10. Seleccioanr caracteres disponibles
+10. Seleccioanr caracteres disponibles<br>
 
-11. Seleccionar que Contexto
+11. Seleccionar que Contexto<br>
 
-12. Seleccioanr que etiquetas html
+12. Seleccioanr que etiquetas html<br>
 
-13. Seleccionar que Evento
+13. Seleccionar que Evento<br>
 
-14. Seleccionar que atributo de html
+14. Seleccionar que atributo de html<br>
 
-15. Selecionar que combinacion permitidas a elegir
+15. Selecionar que combinacion permitidas a elegir<br>
 
-16. Seleccionar que tenicas de xss usar
+16. Seleccionar que tenicas de xss usar<br>
 
-17. Seleccioanr si usar xss Poliformismo
+17. Seleccioanr si usar xss Poliformismo<br>
 
-18. Seleccionar que frameworks
+18. Seleccionar que frameworks<br>
 
-19. Seleccionar que sanitizadores estan presente
+19. Seleccionar que sanitizadores estan presente<br>
 
-20. seleccionar que tipo de waf esta presente
+20. seleccionar que tipo de waf esta presente<br>
 
-21. seleccionar que tipo de backend_franmoword_orm
+21. seleccionar que tipo de backend_franmoword_orm<br>
 
-22. seleccioanr que tipo de servidor es
+22. seleccioanr que tipo de servidor es<br>
 
-23. Proporcionar que tipo de reglas tiene el csp
+23. Proporcionar que tipo de reglas tiene el csp<br>
 
-24. seleccionar que tipo de de ofuscacion usar
+24. seleccionar que tipo de de ofuscacion usar<br>
 
-25. seleccionar que tipo de codificacion usar
+25. seleccionar que tipo de codificacion usar<br>
 
-26. seleccionar si usar codificacion hibrida cuidado
+26. seleccionar si usar codificacion hibrida cuidado<br>
 
-27. Opcion extra #aa: activar combinaciones cruzadas entre TODAS las categorías activas (modo fusión total)
+27. Opcion extra #aa: activar combinaciones cruzadas entre TODAS las categorías activas (modo fusión total)<br>
 
-
- <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
@@ -215,7 +211,7 @@ payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 payload_count: 2000
 ```
 
-LUEGO ESTO AL FINAL <br><br>
+Luego poner esto al final de igual modo la plantilla ya viene por defual con todo esto listo ya <br><br>
 
 ```yaml
 🛡️ BLOQUE CRÍTICO — Activar validación destructiva real
@@ -373,7 +369,7 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br>
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br><br>
 
  **Cheatsheets XSS, especificaciones HTML/WHATWG, MDN para eventos/atributos, RFC (HTTP/encodings), repos de payloads, papers de WAF bypass, issues de sanitizadores (DOMPurify/Jsoup/Bleach, etc.).** <br><br><br>
 
