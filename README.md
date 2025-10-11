@@ -61,7 +61,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 
 1. plantilla_completa_xss_maestro_1.txt 
 2. plantilla_completa_xss_maestro_2.txt
-3. Luego parsarle a tu IA cada plantilla que que guarde en su memoria interna para poder usar la plantilla completa y no estar subiendo por cada chat nuevo. <br><br>
+3. Luego parsarle a tu IA cada plantilla que guarde en su memoria interna para poder usar la plantilla completa y no estar subiendo por cada chat nuevo. <br><br>
 
 
 📌 Reglas técnicas obligatorias<br>
