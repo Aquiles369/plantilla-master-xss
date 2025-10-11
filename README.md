@@ -211,6 +211,7 @@ payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 payload_count: 2000
 ```
 <br>
+
 ## Navegador
 
 ```yaml
@@ -323,6 +324,7 @@ x1_motor_navegador:
     #526+:
  ```
 <br>
+
 ## Metodo http
 
 ```yaml
@@ -436,6 +438,7 @@ x2_metodos_http:
 	      mantener un alias separado, pero recomiendo migrar al selector `usar`.
 ```
 <br>
+
 ## Carateres disponibles
 
 ```yaml
@@ -540,6 +543,7 @@ x3_caracteres_disponibles:
           #526+:
 ```
 <br>
+
 ## Contexto
 
 ```yaml
@@ -877,6 +881,7 @@ x4_contextos:
 
 ```
 <br>
+
 ## Etiquetas html
 
 ```yaml
@@ -1165,7 +1170,7 @@ x5_etiquetas_html:
 
 <br>
 
-##Eventos html
+## Eventos html
 
 ```yaml
 x6_eventos_html:
