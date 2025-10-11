@@ -54,9 +54,37 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-“Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.”<br><br>
+“Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.”<br>
+<br>
 
-Plantilla maestra de xss todo en uno usar con IA.
+Plantilla maestra de xss todo en uno usar con IA.<br>
+
+📌 Reglas técnicas obligatorias<br>
+
+- Cada categoría acepta múltiples parámetros separados por `,` (ej: #1,#5,#70)<br>
+- #a → combinar todos los parámetros de esa categoría<br>
+- #aa → combinar entre TODAS las categorías activas<br>
+- #* → reutilizar el último valor elegido automáticamente<br>
+- #** → aplicar ofuscación carácter por carácter (excepto especiales y omitiendo los ya tocados por x20)<br>
+- #0 → omitir la categoría<br>
+- #00 → IA libre si no hay parámetros<br>
+- #526+ → generar al menos 526 combinaciones reales<br>
+- Se permiten alias x1–x20<br><br>
+
+## Ejemplo payload manual Opcion 2.<br>
+
+```yaml
+2 payload_count: 20 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
+x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0
+x6_carecteres_dosponible: #,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4
+x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1
+x13_frameworks: #0 x14_waf: #2,#4 x15_parsers_sanitizadores: #0 x16_poliformicos_xss: #1,#3
+x17_backend_franmoword_orm: #0 x18_servidor_cual_es_ejemplo_apache: #0 x19_motor_navegador: #1
+x20_codificacion_hibrida_especiales: #4 #aa
+```
+
+
+
 
 
 
