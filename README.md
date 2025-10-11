@@ -178,7 +178,7 @@ Secciones y categorías (x1–x20 mejorado):
 
  ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla
 
-Al principio de la plantilla master de xss <br><br>
+Al principio de la plantilla master de xss <br>
 
 ```yaml
 # 🔐 LLAVE MAESTRA — Handshake obligatorio
@@ -211,7 +211,7 @@ payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 payload_count: 2000
 ```
 
-Luego poner esto al final de igual modo la plantilla ya viene por defual con todo esto listo ya <br><br>
+Luego poner esto al final de igual modo la plantilla ya viene por defual con todo esto listo ya <br>
 
 ```yaml
 🛡️ BLOQUE CRÍTICO — Activar validación destructiva real
@@ -349,7 +349,7 @@ Si payload_input = "2":<br>
 ✔ Alta entropía y creatividad (modo varios Aquiles trabajando a la vez)<br><br>
 ```
 
-## Ejemplo, payload_input:<br><br>
+## Ejemplo payload manual Opcion 2.<br>
 
 
 
