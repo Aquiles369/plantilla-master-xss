@@ -66,49 +66,49 @@ Plantilla maestra de xss todo en uno usar con IA.
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFjNDA2eTFuemRodW1nMGtweXZsZ3Q4dHI5cjB5aHgzaDF0d2dscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rjx6NwlyWdHkEL1ieh/giphy.gif" width = 80px>  </picture> Características
 <br><br>
 
-- Categorías dinámicas<br><br>
+- Categorías dinámicas<br>
 
 Secciones y categorías (x1–x20 mejorado):
 
-x1 Motores/Navegadores: Blink/WebKit/Gecko/CEF/Headless/SmartTV/Consolas.<br>
+• x1 Motores/Navegadores: Blink/WebKit/Gecko/CEF/Headless/SmartTV/Consolas.<br>
 
-x2 Métodos HTTP: GET/POST… (para rutas de prueba y PoCs server-side).<br>
+• x2 Métodos HTTP: GET/POST… (para rutas de prueba y PoCs server-side).<br>
 
-x3 Carácteres disponibles: HTML/JS/URL, invisibles, ruptura contextual, separadores multi-contexto.<br>
+• x3 Carácteres disponibles: HTML/JS/URL, invisibles, ruptura contextual, separadores multi-contexto.<br>
 
-x4 Contextos: atributo (con/sin comillas), href/src/action/formaction, HTML plano/head/body/template, <script>/module, srcdoc, DOM sinks (innerHTML, insertAdjacentHTML, document.write, Range, Shadow DOM), JSON in HTML/JS/storage, headers reflejados (Referer/UA), plantillas (Handlebars/Mustache/EJS/Pug/Liquid/Nunjucks…).<br>
+• x4 Contextos: atributo (con/sin comillas), href/src/action/formaction, HTML plano/head/body/template, <script>/module, srcdoc, DOM sinks (innerHTML, insertAdjacentHTML, document.write, Range, Shadow DOM), JSON in HTML/JS/storage, headers reflejados (Referer/UA), plantillas (Handlebars/Mustache/EJS/Pug/Liquid/Nunjucks…).<br>
 
-x5 Etiquetas HTML/SVG/MathML (curado, incluidos obsoletos útiles).<br>
+• x5 Etiquetas HTML/SVG/MathML (curado, incluidos obsoletos útiles).<br>
 
-x6 Eventos: UI, ratón/teclado/foco/form, carga/errores, multimedia, sensores, WebXR, pagos.<br>
+• x6 Eventos: UI, ratón/teclado/foco/form, carga/errores, multimedia, sensores, WebXR, pagos.<br>
 
-x7 Atributos: globales, enlaces, media, forms, iframe, script, link, meta, ARIA, SVG.<br>
+• x7 Atributos: globales, enlaces, media, forms, iframe, script, link, meta, ARIA, SVG.<br>
 
-x8 Combinaciones válidas (whitelist etiqueta/atributo/evento): base para payloads que sí parsean.<br>
+• x8 Combinaciones válidas (whitelist etiqueta/atributo/evento): base para payloads que sí parsean.<br>
 
-x9 Técnicas XSS: DOM-based, Reflected, Stored, Mutation/XSS Parser, MHTML; soporte para fragmentación y reensamblado.<br>
+• x9 Técnicas XSS: DOM-based, Reflected, Stored, Mutation/XSS Parser, MHTML; soporte para fragmentación y reensamblado.<br>
 
-x10 Polimórficos: self-destroy (this.remove()), varnames random, concatenaciones, delays (setTimeout), wrappers Function/eval (solo lab).<br>
+• x10 Polimórficos: self-destroy (this.remove()), varnames random, concatenaciones, delays (setTimeout), wrappers Function/eval (solo lab).<br>
 
-x11 Frameworks: React/Angular/Vue/Next/Svelte/Ember/Blade/Twig/Jinja/Liquid/Nunjucks/etc. (payloads adaptados).<br>
+• x11 Frameworks: React/Angular/Vue/Next/Svelte/Ember/Blade/Twig/Jinja/Liquid/Nunjucks/etc. (payloads adaptados).<br>
 
-x12 Sanitizadores/Parsers: DOMPurify, OWASP Java, Jsoup, Bleach, HTMLPurifier, etc. (estrategias de evasión documentadas).<br>
+• x12 Sanitizadores/Parsers: DOMPurify, OWASP Java, Jsoup, Bleach, HTMLPurifier, etc. (estrategias de evasión documentadas).<br>
 
-x13 WAF: Cloudflare, Imperva, F5 ASM, ModSecurity CRS, AWS/Azure/GCP WAF, Fastly/Signal Sciences… (perfiles combinables).<br>
+• x13 WAF: Cloudflare, Imperva, F5 ASM, ModSecurity CRS, AWS/Azure/GCP WAF, Fastly/Signal Sciences… (perfiles combinables).<br>
 
-x14 Backends/ORM (lectura de contexto): Django/Flask/Laravel/Spring/ASP.NET/Express/Nest/Go/Rust/etc.<br>
+• x14 Backends/ORM (lectura de contexto): Django/Flask/Laravel/Spring/ASP.NET/Express/Nest/Go/Rust/etc.<br>
 
-x15 Servidor: Apache/Nginx/IIS/LiteSpeed/Node core/Bun/Deno/etc.<br>
+• x15 Servidor: Apache/Nginx/IIS/LiteSpeed/Node core/Bun/Deno/etc.<br>
 
-x16 CSP bypass: inline-event, base tag, nonce reuse, data:/blob: donde aplique (toggle on/off).<br>
+• x16 CSP bypass: inline-event, base tag, nonce reuse, data:/blob: donde aplique (toggle on/off).<br>
 
-x17 Ofuscaciones: bloques válidos (ASCII/latín ext./griego/cirílico) con límites para no romper.<br>
+• x17 Ofuscaciones: bloques válidos (ASCII/latín ext./griego/cirílico) con límites para no romper.<br>
 
-x18 Codificaciones: entidades/URL/hex/unicode/octal/Base64/mixtas/NCR/UTF7/overlong/JS escapes/CSS escapes/JSON escapes, etc.<br>
+• x18 Codificaciones: entidades/URL/hex/unicode/octal/Base64/mixtas/NCR/UTF7/overlong/JS escapes/CSS escapes/JSON escapes, etc.<br>
 
-x19 Codificación híbrida de especiales (x20): mezcla de formatos por carácter (< > / = ' " ()) con políticas #1–#4 y modo #a.<br>
+• x19 Codificación híbrida de especiales (x20): mezcla de formatos por carácter (< > / = ' " ()) con políticas #1–#4 y modo #a.<br>
 
-x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con límites (capas y longitud).<br>
+• x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con límites (capas y longitud).<br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
@@ -118,67 +118,67 @@ x20 Fusión total / Cross-combos: #aa para entrecruzar categorías activas con l
 <br><br>
 
 
-1. Abrí el archivo en tu IA preferida recomenadad (Chat GPT PLUS).<br>
+1. Abrí el archivo en tu IA preferida recomendada (ChatGPT Plus).<br>
 
-2. Guardar en su memoria interna la plantilla master de xss.<br>
+2. Guardá en su memoria interna la plantilla maestra de XSS.<br>
 
-3. Escribir plantilla master de xss.<br>
+3. Escribí plantilla maestra de XSS.<br>
 
-4. Escribir aquilestop la contraseña.<br>
+4. Escribí aquilestop como contraseña.<br>
 
-5. Opciones de ejucion opcion 1- ingresar un payload manual o opcion 2- ingresar un paylodad x y dejar que al IA haga todo el resto con su creatividad.<br>
+5. Opciones de ejecución: opción 1 — ingresar un payload manual, u opción 2 — ingresar un payload genérico y dejar que la IA haga todo el resto con su creatividad.<br>
 
-6. Si elegiste la opcion 1  (vos indicarás los valores de cada categoría manualmente) .<br>
+6. Si elegiste la opción 1 (vos indicarás los valores de cada categoría manualmente).<br>
 
-7. Cantidad de paylodad a generar etc recomendado comenzar con menos de 20 dependiento la complejidad de los comandos y categorias utilizadas probar 2000 con paylodad genericos ingresar los comandos separa por espacio.<br>
+7. Cantidad de payloads a generar: se recomienda comenzar con menos de 20 dependiendo de la complejidad de los comandos y categorías utilizadas. Probar con 2000 payloads genéricos ingresando los comandos separados por espacio.<br>
 
-8. Seleccionar el motor del navegador<br>
+8. Seleccionar el motor del navegador.<br>
 
-9. Seleccionar Metodo http<br>
+9. Seleccionar el método HTTP.<br>
 
-10. Seleccioanr caracteres disponibles<br>
+10. Seleccionar los caracteres disponibles.<br>
 
-11. Seleccionar que Contexto<br>
+11. Seleccionar el contexto.<br>
 
-12. Seleccioanr que etiquetas html<br>
+12. Seleccionar las etiquetas HTML.<br>
 
-13. Seleccionar que Evento<br>
+13. Seleccionar el evento.<br>
 
-14. Seleccionar que atributo de html<br>
+14. Seleccionar el atributo HTML.<br>
 
-15. Selecionar que combinacion permitidas a elegir<br>
+15. Seleccionar las combinaciones permitidas.<br>
 
-16. Seleccionar que tenicas de xss usar<br>
+16. Seleccionar las técnicas de XSS a usar.<br>
 
-17. Seleccioanr si usar xss Poliformismo<br>
+17. Seleccionar si usar XSS polimórfico.<br>
 
-18. Seleccionar que frameworks<br>
+18. Seleccionar los frameworks.<br>
 
-19. Seleccionar que sanitizadores estan presente<br>
+19. Seleccionar los sanitizadores presentes.<br>
 
-20. seleccionar que tipo de waf esta presente<br>
+20. Seleccionar el tipo de WAF presente.<br>
 
-21. seleccionar que tipo de backend_franmoword_orm<br>
+21. Seleccionar el tipo de backend/Framework ORM.<br>
 
-22. seleccioanr que tipo de servidor es<br>
+22. Seleccionar el tipo de servidor.<br>
 
-23. Proporcionar que tipo de reglas tiene el csp<br>
+23. Proporcionar qué tipo de reglas tiene el CSP.<br>
 
-24. seleccionar que tipo de de ofuscacion usar<br>
+24. Seleccionar el tipo de ofuscación a usar.<br>
 
-25. seleccionar que tipo de codificacion usar<br>
+25. Seleccionar el tipo de codificación a usar.<br>
 
-26. seleccionar si usar codificacion hibrida cuidado<br>
+26. Seleccionar si usar codificación híbrida (con precaución).<br>
 
-27. Opcion extra #aa: activar combinaciones cruzadas entre TODAS las categorías activas (modo fusión total)<br>
+27. Opción extra #aa: activar combinaciones cruzadas entre todas las categorías activas (modo fusión total).<br>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla<br>
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla
 
-Al principio de l plantilla master de xss
+Al principio de la plantilla master de xss <br><br>
 
 ```yaml
 # 🔐 LLAVE MAESTRA — Handshake obligatorio
