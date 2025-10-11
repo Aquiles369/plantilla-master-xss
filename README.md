@@ -54,10 +54,10 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-“Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.”<br>
-<br>
+- Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.<br>
+- Plantilla maestra de xss todo en uno usar con IA.<br><br>
 
-Plantilla maestra de xss todo en uno usar con IA.<br>
+
 
 📌 Reglas técnicas obligatorias<br>
 
@@ -70,6 +70,7 @@ Plantilla maestra de xss todo en uno usar con IA.<br>
 - #00 → IA libre si no hay parámetros<br>
 - #526+ → generar al menos 526 combinaciones reales<br>
 - Se permiten alias x1–x20<br><br>
+
 
 ## Ejemplo payload manual Opcion 2.<br>
 
