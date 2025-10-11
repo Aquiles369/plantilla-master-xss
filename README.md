@@ -318,7 +318,18 @@ Si payload_input = "2":<br>
 
 Ejemplo, payload_input:<br><br>
 
-```2 payload_count: 4000 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0 x6_carecteres_dosponible: #,,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4 x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1 x13_frameworks: #0 x14_waf: #2,#4 x15_parsers_sanitizadores: #0 x16_poliformicos_xss: #1,#3 x17_backend_franmoword_orm: #0 x18_servidor_cual_es_ejemplo_apache: #0 x19_motor_navegador: #1 x20_codificacion_hibrida_especiales: #4 #aa```
+## 🧪 Ejemplo — payload_input
+
+```yaml
+2 payload_count: 4000 modo_validación: "estricto" x1_ofuscaciones: #1,#2,#3,#9,#10,#11,#a
+x2_charsets: #1 x3_codificaciones: #1,#2,#3,#a x4_tecnicas_xss: #1,#2,#4,#a x5_csp_bypass: #0
+x6_carecteres_dosponible: #,#|,#.,#+,#= x7_etiquetas_html: #1,#2,#3 x8_eventos_html: #1,#2,#4
+x9_atributos_html: #1,#5 x10_combinaciones_permitidas: #a x11_contextos: #1,#2,#4 x12_metodos_http: #1
+x13_frameworks: #0 x14_waf: #2,#4 x15_parsers_sanitizadores: #0 x16_poliformicos_xss: #1,#3
+x17_backend_franmoword_orm: #0 x18_servidor_cual_es_ejemplo_apache: #0 x19_motor_navegador: #1
+x20_codificacion_hibrida_especiales: #4 #aa
+```
+
 
 <br>
 
