@@ -57,6 +57,11 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 - Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.<br>
 - Plantilla maestra de xss todo en uno usar con IA.<br><br>
 
+## Cargar primero en tu IA las 2 plantilla : 
+
+1. plantilla_completa_xss_maestro_1.txt 
+2. plantilla_completa_xss_maestro_2.txt
+3. Luego parsarle a tu IA cada plantilla que que guarde en su memoria interna para poder usar la plantilla completa y no estar subiendo por cada chat nuevo. <br><br>
 
 
 📌 Reglas técnicas obligatorias<br>
