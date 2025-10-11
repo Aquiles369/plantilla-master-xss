@@ -11,7 +11,7 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFld2tqZjA0N2Z5ajQ3aWI5cXhkcW5jN3R1YmlwNTd5b3U5MXllaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gHF49opbVhtijH9mJw/giphy.gif" width = 75px>  </picture> Plantilla Maestra XSS — Orquestador de payloads, validación y evasión
+ ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJyODl2bXo4enQwNTQzbHFmMzIyYzMyNnQ0Zm9xMW93NWZlNGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYNVf5a6cTlTET7KfU/giphy.gif" width = 75px>  </picture> Plantilla Maestra XSS — Orquestador de payloads, validación y evasión
 
 <br>
 
@@ -27,7 +27,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVnYjRjbnZpNjJ3eXRlbHB2aWRsdDN3MmlxbGE0Y3h5bTYyZXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lr2NNkEUuGIKb3CFbu/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ1Z3BzcmY0ZTJ3dDl1bWNkM3U1NGxjNjJjNGpnYTNwaDVmZHQ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hritbzsE8wRhMoMo16/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **• En pentests, la info XSS vive desperdigada: cheatsheets, blogs, PoCs viejos, listas de WAF, snippets de codificación, y notas sueltas. Resultado:<br><br>
 • Lento encontrar payloads que ejecuten en el contexto exacto (atributo con/sin comillas, href/src, innerHTML, SVG/MathML, JSON-in-HTML, etc.).<br><br>
 • Difícil versionar ofuscaciones/codificaciones y probar evasiones realistas (CSP/WAF/sanitizadores).<br><br>
@@ -36,7 +36,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3M2R5ZThyeHVzNDExNHY2eGs0ZG5kamllNzA4b3Rha3BlbHpvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cjbHnvsYNIoqcL8bG7/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZHlxNTdkbHRlZGttMDY4aHczamZybGw1Z3FzNG1mc3Z0Ym9xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OPvbEFZEY4Zk0VDfm4/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Cobertura por contexto (atributo, HTML plano, JS inline, URLs, SVG/MathML, DOM sinks, JSON incrustado, headers, etc.).<br><br>
 • Matriz de combinaciones válidas (etiqueta/atributo/evento) para minimizar falsos positivos.<br><br>
 • Codificación híbrida de especiales (x20) + ofuscaciones de alto rendimiento (ASCII/latín ext./griego/cirílico) sin romper ejecución.<br><br>
@@ -51,7 +51,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb241aWFhZGR4bWxsNm5ocWg5MWVvNng1Z3FlMGcyYTNkNmZ6NnN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YmWXdKt92qutjcSU53/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
 Herramienta offline para generar, validar y catalogar payloads XSS por contexto, con combinaciones válidas y evasiones codificadas. CRUD, alta masiva, buscador global, contadores, export/import JSON y perfiles de WAF/CSP/sanitizadores.<br><br>
@@ -63,7 +63,7 @@ Plantilla maestra de xss todo en uno usar con IA.
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFjNDA2eTFuemRodW1nMGtweXZsZ3Q4dHI5cjB5aHgzaDF0d2dscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rjx6NwlyWdHkEL1ieh/giphy.gif" width = 80px>  </picture> Características
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajk4anUyZ2IwMm9xdDJnZHNrb2ptOXM3bXo1dTYwMXZ4aGxsZHUyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kC2i78wXAAmgB2LoGQ/giphy.gif" width = 80px>  </picture> Características
 <br><br>
 
 - Categorías dinámicas<br>
@@ -114,7 +114,7 @@ Secciones y categorías (x1–x20 mejorado):
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Uso
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHk5YXlnamN5aGRmMXM4c2JheHg2ZGswMHlvb2h3bjkyZGFieWRvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hwrAuXxEZJBzg7JzVK/giphy.gif" width = 80px>  </picture> Uso
 <br><br>
 
 
@@ -176,7 +176,7 @@ Secciones y categorías (x1–x20 mejorado):
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla
+ ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjNW4yams3eG91NDRkYnY5OG5hMWdrYWhpMmRlam5idndqdG9uMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VjYVCK14nzkfZnKftv/giphy.gif" width = 80px>  </picture> Promt utilizado en la plantilla
 
 Al principio de la plantilla master de xss <br>
 
@@ -369,7 +369,7 @@ x20_codificacion_hibrida_especiales: #4 #aa
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVyZ3N3amJxMDMza2ZvdjV3eG51cGg5NXBhb3l0aGJoZmc4ODA0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDgOyy087fm6httXwK/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br><br>
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWF1ZW9xOTVsYzIyenZtN3BwdXh3NmpvZ2xvdmRmMHRnMmdnMXZsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Eo92aKij3WTbc3XFka/giphy.gif" width = 80px>  </picture> Recursos & Fuentes <br><br>
 
  **Cheatsheets XSS, especificaciones HTML/WHATWG, MDN para eventos/atributos, RFC (HTTP/encodings), repos de payloads, papers de WAF bypass, issues de sanitizadores (DOMPurify/Jsoup/Bleach, etc.).** <br><br><br>
 
