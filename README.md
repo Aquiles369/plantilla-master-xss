@@ -237,7 +237,7 @@ Secciones y categorías (x1–x20 mejorado):
 payload_input: "<AQUÍ_VA_EL_PAYLOAD_DEL_USUARIO_O_2>"
 
 # cantidad deseada de payloads gene rados
-payload_count: 2000
+payload_count: 200
 ```
 <br>
 
